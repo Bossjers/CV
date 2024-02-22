@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    width:700px ;
+    height: 800px;
+    border:1px solid rgb(14, 1, 1);
+    margin:0px auto; 
+    
+}.outer h1{
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
